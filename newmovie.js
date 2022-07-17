@@ -1,1 +1,1 @@
-var lp = 'muvia.xyz';
+lp = 'muvia.xyz';
